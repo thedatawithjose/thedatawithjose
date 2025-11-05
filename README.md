@@ -49,7 +49,7 @@ I'm a Data Engineer who came up through quantitative trading. For six years I pu
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/josetraderx) | [Portfolio](https://josetraderx.com) | [Download CV](https://drive.google.com/file/d/1mIGwYEd8EYvQShpO6XJau3nHIImHSiDE/view?usp=drive_link)
+[LinkedIn](https://www.linkedin.com/in/josetraderx) | [Portfolio](https://datawithjose.tech) | [Download CV](https://drive.google.com/file/d/1mIGwYEd8EYvQShpO6XJau3nHIImHSiDE/view?usp=drive_link)
 
 ---
 
