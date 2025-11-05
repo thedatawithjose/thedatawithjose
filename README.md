@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Jose Acosta
-**Data Engineer | Building scalable, high-performance data systems | Delivering 40% faster insights & 5x throughput | PySpark • Databricks • Snowflake • AWS • Data Modeling**
+# 👋 Hi, I'm Jose Acosta
+**Data Engineer | High-Availability Real-Time Systems | ex-Quant Trader (6Y) | Turning data quality & latency into competitive advantage**
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-success)
@@ -7,42 +7,44 @@
 ![Pytest](https://img.shields.io/badge/tests-90%25%20coverage-brightgreen)
 ![AWS](https://img.shields.io/badge/Cloud-AWS%20%7C%20dbt%20%7C%20Snowflake-orange)
 
-My career began in quantitative trading, where I learned a costly lesson: unreliable data leads to mistakes. Through investing in the stock market, I also learned how clear, reliable data is fundamental for successful decision-making. That experience defines my work as a Data Engineer. I build robust data systems that transform chaos into clarity, ensuring teams can make critical decisions with absolute confidence.
+I'm a Data Engineer who came up through quantitative trading. For six years I put real capital behind time-series models; now I build the high-availability, real-time data systems I wished I'd had. Earlier, five years in Civil Engineering project management taught me to deliver under constraints and communicate with non-technical stakeholders.
 
-Today, I apply that same mindset to data engineering. I design and build ETL pipelines and real-time data workflows that transform raw inputs into clean, trustworthy outputs ready for analytics, automation, and decision-making.
+**Philosophy:** Data quality, latency, and reliability aren't "tech details"—they're business risk. When a pipeline fails and decisions can't wait, you learn to design for failure, instrument everything, and ship only what you can monitor.
 
-My toolkit includes Python, SQL, Spark, dbt, FastAPI, AWS, Snowflake, and TimescaleDB. My projects range from parsing SEC filings to power algorithmic trading research to building scalable prototypes for fraud detection and risk monitoring.
-
-What I bring is a blend of analytical rigor and engineering precision, shaped by high-stakes environments. My focus: help teams make faster, smarter decisions by giving them data they can trust at scale.
+### How I build
+- **Product-minded:** Pipelines aligned to decisions & KPIs, not just storage
+- **Quality & reliability first:** Unit tests + dbt data tests, SLAs/SLIs, lineage
+- **Cost-aware by design:** Partitioning, pruning, caching, orchestration, right-sizing
+- **Data contracts:** Work backward from outcomes to schemas, ownership, and alerts
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Core Tech Stack
 - **Languages & Databases:** Python, SQL, PostgreSQL, TimescaleDB, Parquet  
-- **Data Engineering:** ETL/ELT, real-time & batch ingestion, data modeling, quality validation  
-- **Infra & DevOps:** Docker, CI/CD (GitHub Actions), Git  
-- **Cloud & Modern Data Stack:** AWS (S3, Lambda), dbt, Snowflake, learning Databricks/Spark  
-- **APIs & Visualization:** REST/WebSocket, FastAPI, Streamlit dashboards  
+- **Big Data & Processing:** PySpark, Databricks, Snowflake
+- **Orchestration & Transformation:** Airflow, dbt, MLflow
+- **Data Quality:** Great Expectations, Soda  
+- **Infrastructure:** Docker, Kubernetes, AWS (S3, Lambda), CI/CD (GitHub Actions)
+- **Specialties:** Time-Series, Streaming, Real-Time Systems, Data Modeling
+- **APIs & Visualization:** REST/WebSocket, FastAPI, Streamlit
 
 ---
 
 ### 🚀 Featured Projects
-
-- [**Financial-Data-Pipeline**](https://github.com/josetraderx/Financial-Data-Pipeline)  
-  Production-style ETL pipeline for ingesting and transforming market/financial data. Includes automated testing (Pytest 90% coverage), CI/CD with GitHub Actions, and Docker deployment for reproducibility.  
+- [**Financial-Data-Pipeline**](https://github.com/thedatawithjose/Financial-Data-Pipeline)  
+  Production-ready ETL pipeline for ingesting and transforming market/financial data. Includes automated testing (Pytest 90% coverage), CI/CD with GitHub Actions, and Docker deployment.  
   
+- [**edgar-sec-parser**](https://github.com/thedatawithjose/edgar-sec-parser)  
+  High-performance SEC EDGAR filing parser with intelligent SGML/XBRL parsing capabilities, structuring unstructured filings into analytics-ready datasets.
 
-- [**edgar-sec-parser**](https://github.com/josetraderx/edgar-sec-parser)  
-  Parses SEC EDGAR filings and structures them into analytics-ready datasets for downstream consumption.
+- [**sec-10k-extractor**](https://github.com/thedatawithjose/sec-10k-extractor)  
+  Production-ready SEC 10-K document parser with 100% schema compliance for automated extraction and normalization.
 
-- [**sec-10k-extractor**](https://github.com/josetraderx/sec-10k-extractor)  
-  Automates extraction and normalization of 10-K filings, preparing them for analysis and visualization.
+- [**washguard_KNN**](https://github.com/thedatawithjose/washguard_KNN)  
+  KNN-based anomaly detection model to identify potential wash trading or irregular market patterns.
 
-- [**washguard_KNN**](https://github.com/josetraderx/washguard_KNN)  
-  Prototype KNN-based anomaly detection model to identify potential wash trading or irregular market patterns.
-
-- [**Mean_Reversion_OU**](https://github.com/josetraderx/Mean_Reversion_OU)  
-  Implementation of a mean reversion trading strategy using the Ornstein-Uhlenbeck stochastic process.
+- [**Mean_Reversion_OU**](https://github.com/thedatawithjose/Mean_Reversion_OU)  
+  Mean reversion trading strategy backtesting framework using Ornstein-Uhlenbeck stochastic process with parameter estimation and signal generation.
 
 ---
 
@@ -51,8 +53,5 @@ What I bring is a blend of analytical rigor and engineering precision, shaped by
 
 ---
 
-### 💡 Quick Facts
-- 🔍 Passionate about **data reliability and automation** — built testing frameworks and CI/CD for production-ready pipelines.  
-- 📈 Strong foundation in **financial data engineering** but open to other data-intensive domains.  
-- ☁️ Actively working with and learning the **modern cloud data stack** to scale analytics infrastructure.
-
+### 💡 What I'm looking for
+Data Engineering roles in data-intensive products (fintech, e-commerce, logistics, SaaS) where domain context + technical rigor create real leverage. Happy to share repos, diagrams, or walk through architectural decisions and trade-offs.
