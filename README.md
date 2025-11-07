@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jose Acosta
-**Data Engineer | High-Availability Real-Time Systems | ex-Quant Trader (6Y) | Turning data quality & latency into competitive advantage**
+**Data Engineer | High-Availability Real-Time Systems | ex-Quant Trader (4Y) | Turning data quality & latency into competitive advantage**
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-success)
@@ -7,7 +7,7 @@
 ![Pytest](https://img.shields.io/badge/tests-90%25%20coverage-brightgreen)
 ![AWS](https://img.shields.io/badge/Cloud-AWS%20%7C%20dbt%20%7C%20Snowflake-orange)
 
-I'm a Data Engineer who came up through quantitative trading. For six years I put real capital behind time-series models; now I build the high-availability, real-time data systems I wished I'd had. Earlier, five years in Civil Engineering project management taught me to deliver under constraints and communicate with non-technical stakeholders.
+I'm a Data Engineer who came up through quantitative trading. For four years I put real capital behind time-series models; now I build the high-availability, real-time data systems I wished I'd had. Earlier, four years in Civil Engineering project management taught me to deliver under constraints and communicate with non-technical stakeholders.
 
 **Philosophy:** Data quality, latency, and reliability aren't "tech details"—they're business risk. When a pipeline fails and decisions can't wait, you learn to design for failure, instrument everything, and ship only what you can monitor.
 
