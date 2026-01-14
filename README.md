@@ -39,5 +39,5 @@ I’m currently focused on remote Data Engineering roles in teams where data rel
 and engineering discipline directly support high-impact decisions.
 
 Links:
-- LinkedIn: https://www.linkedin.com/in/josetraderx
+- LinkedIn: https://www.linkedin.com/in/datawithjose
 - Portfolio: https://datawithjose.tech
