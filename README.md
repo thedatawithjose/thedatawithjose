@@ -1,13 +1,14 @@
 # Hi, I’m Jose Acosta
 
-Data Engineer focused on building reliable data pipelines for decision-critical systems.  
-Background in algorithmic trading and large-scale project environments, where data quality,
-timing, and failure handling directly impact outcomes.
+I work on data systems where integrity, timing, and traceability directly impact business and financial decisions. In these environments, bad data is not a minor issue, but a material operational and risk problem. I design reliable, explainable data pipelines for decision-critical systems.
 
-I transitioned into data engineering after several years working with real capital and
-risk-sensitive workflows, and earlier experience leading complex construction projects.
-That background shapes how I design data systems today: with explicit assumptions,
-clear ownership, and an emphasis on reliability over novelty.
+My background combines engineering leadership and algorithmic trading. I spent over six years leading large-scale civil construction projects as a project manager and supervision lead, operating in environments defined by risk, constraints, accountability, and real-world execution.
+
+I later transitioned into quantitative finance and fintech, where I worked with market data and automated investment models, eventually leading an algorithmic trading team developing Python-based systems where data quality, latency, and silent failures had direct financial consequences.
+
+Today, I focus on data engineering with an emphasis on reliability, validation, observability, and ownership. I work with Python, SQL, ETL/ELT pipelines, Airflow, and data modeling, while continuing to deepen my expertise across the modern data stack. Broken assumptions, delayed jobs, or unvalidated data are treated as system-level risks, not technical inconveniences.
+
+I am best suited for teams where data drives high-impact decisions, quality is non-negotiable, and engineering rigor matters more than chasing tools. I am currently focused on remote Data Engineering roles where I can contribute both technical execution and mature system-level thinking.
 
 ## How I work
 - Build pipelines aligned to business decisions, not just data movement
