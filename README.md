@@ -1,21 +1,21 @@
 # Hi, I'm Jose Acosta
 
-I build data pipelines for environments where bad data has real consequences.
+I build quantitative systems and data pipelines for environments where bad data and latency have real financial consequences.
 
-My background is unusual for a data engineer: six years leading large-scale construction projects taught me how complex systems fail — and how to design them so they don't. That mental model translates directly into how I approach data infrastructure: reliability isn't a feature, it's the baseline.
+My background is a unique hybrid: six years leading large-scale construction projects taught me how complex systems fail—and how to design them with a "zero-failure" mindset. Over the last 8 years, I've translated that exact mental model into the financial markets as an Algorithmic Trader and Quant Developer.
 
-I've applied that in Fintech and Algorithmic Trading, building automated investment systems and market data pipelines where latency and data integrity aren't SLA metrics they're the difference between a good trade and a bad one.
+I build automated investment systems, real-time market data pipelines, and trading bots where latency, data integrity, and risk management aren't just SLA metrics—they are the difference between a profitable trade and a blown account. 
 
-Today I focus on data engineering with an emphasis on reliability, observability, and ownership. Broken assumptions, delayed jobs, and silent failures are treated as system-level risks, not technical inconveniences.
+Today I focus on financial data engineering and quantitative development with an emphasis on reliability, observability, and ownership. Broken assumptions, API disconnects, and silent failures are treated as severe execution risks, not technical inconveniences.
 
 ---
 
 ## How I work
 
-- Build pipelines aligned to business decisions, not just data movement
-- Treat data quality, latency, and silent failures as system-level risks
-- Prefer simple, observable architectures over fragile complexity
-- Document trade-offs, assumptions, and failure scenarios explicitly
+- Build algorithmic pipelines aligned to market execution and business logic, not just data movement
+- Treat data quality, latency, and silent failures as critical system-level risks
+- Prefer agile, observable architectures (containerized, API-driven) over fragile, bloated complexity
+- Embed strict risk management, drawdown protection, and explicit failure scenarios directly into the code
 
 ---
 
@@ -23,29 +23,29 @@ Today I focus on data engineering with an emphasis on reliability, observability
 
 | Area | Stack |
 |---|---|
-| Languages & Querying | Python, SQL |
-| Orchestration | Airflow |
-| Storage & Warehousing | Snowflake, PostgreSQL |
-| Cloud & Tooling | AWS, Docker, Git, CI/CD |
-| Domain | Time-series, financial & market data |
+| **Languages** | Python, C# (NinjaScript), SQL, Pine Script |
+| **Data & Quant** | Pandas, NumPy, Vectorbt, SARIMA, Time-Series Analysis |
+| **Infrastructure** | Docker, Git, REST APIs, WebSockets, Cloud VPS |
+| **Storage** | PostgreSQL, TimescaleDB |
+| **Domain** | Algorithmic Trading, Prop Firms, Market Data, Risk Systems |
 
 ---
 
 ## Selected projects
 
-**Financial Data Pipeline**
-End-to-end pipeline for ingesting and transforming market data, with schema validation, automated tests, and scheduled workflows designed for time-sensitive use cases.
+**Proprietary Algorithmic Trading Systems**
+End-to-end development of production-ready trading bots. Translated complex trend-following and momentum logic into automated C# (NinjaTrader) and Python systems, incorporating dynamic risk management (ATR-based trailing stops) and strict daily drawdown limits tailored for prop firm evaluations.
+
+**Real-Time Market Data Pipelines**
+Dockerized workflows for ingesting high-volatility tick data via exchange APIs (Binance, Tradovate). The systems process live feeds using Python/Pandas and apply predictive models (such as SARIMA and Vectorbt backtesting) to generate low-latency trading signals.
 
 **SEC EDGAR Parsers (10-K / filings)**
-Tools to extract and normalize unstructured regulatory filings into analytics-ready datasets, with a focus on correctness, reproducibility, and schema consistency.
-
-**Quantitative Research Projects**
-Time-series analysis, anomaly detection, and strategy research used to explore market behavior and risk patterns.
+Tools to extract and normalize unstructured regulatory financial filings into analytics-ready datasets, with a focus on correctness, reproducibility, and schema consistency for fundamental quantitative research.
 
 ---
 
 ## Currently
 
-Focused on remote Data Engineering roles where the data actually matters.
+Focused on remote **Quant Developer, Technical PM (FinTech), and Financial Data** roles where market logic, precision, and data integrity actually matter.
 
 [LinkedIn](https://www.linkedin.com/in/datawithjose) · [Portfolio](https://datawithjose.tech)
