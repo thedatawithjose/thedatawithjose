@@ -2,7 +2,7 @@
 
 I build quantitative systems and data pipelines for environments where bad data and latency have real financial consequences.
 
-My background is a unique hybrid: six years leading large-scale construction projects taught me how complex systems fail—and how to design them with a "zero-failure" mindset. Over the last 8 years, I've translated that exact mental model into the financial markets as an Algorithmic Trader and Quant Developer.
+My background is a unique hybrid: six years leading large-scale construction projects taught me how complex systems fail and how to design them with a "zero-failure" mindset. Over the last 8 years, I've translated that exact mental model into the financial markets as an Algorithmic Trader and Quant Developer.
 
 I build automated investment systems, real-time market data pipelines, and trading bots where latency, data integrity, and risk management aren't just SLA metrics they are the difference between a profitable trade and a blown account. 
 
