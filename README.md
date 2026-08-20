@@ -1,4 +1,3 @@
-
 Building automated trading systems is not just a programming problem. I am a Quantitative Developer with 8 years of active market experience, focused on turning trading logic into systematic, validated, and executable systems from research to live execution.
 
 I work at the intersection of trading and software engineering: translating market ideas into explicit rules, developing research and backtesting workflows, testing strategies against data they were not developed on, and engineering the execution layer needed to operate them in live markets.
